@@ -1,0 +1,41 @@
+/* h1{
+    font:;
+} */
+
+.heading {
+    color: black;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+  text-shadow: -1px 0 rgb(17, 17, 17), 0 1px rgb(20, 20, 20), 1px 0,rgb(20, 20, 20), 0 -1px rgb(14, 13, 13);
+}
+.heading:hover{
+    transform: translateY(-50px);  
+}
+
+
+.jumbotron {
+    background-color: #440303;
+    color: #fff;
+    padding: 100px 25px;
+}
+.container-fluid {
+    padding: 60px 50px;
+}
+.bg-grey {
+    background-color: #440303;
+}
+.logo-small {
+    color:#440303;
+    font-size: 50px;
+}
+.logo {
+    color: #440303;
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+      text-align: center;
+      margin: 25px 0;
+    }
+}

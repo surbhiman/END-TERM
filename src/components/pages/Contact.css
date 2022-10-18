@@ -1,0 +1,20 @@
+
+    * {
+        box-sizing: border-box;
+      }
+      #wrapper {
+        width: 170px;
+      }
+      textarea {
+        border-color: #eee;
+        border-width: 1px;
+      }
+      label, textarea, input {
+        width: 100%;
+        display: block;
+      }
+      input {
+        border-style: solid;
+        border-width: 1px;
+      
+    }      

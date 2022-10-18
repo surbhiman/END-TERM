@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Rishika",
+      "username": "leo",
+      "email": "Greatgod@april.biz.com",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Aurangabad",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-767798671 x564",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Stampa",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Raghav",
+      "username": "Pasta",
+      "email": "tasty@yesenia.net",
+      "address": {
+        "street": "Dough Extension",
+        "suite": "Suite 098",
+        "city": "Madison",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.682",
+          "lng": "-48900653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Rishika",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "name": "Surbhi Man Singh",
+      "username": "Surbhithegreat",
+      "email": "surbhimansingh107@gmail.com",
+      "phone": "07814124221",
+      "website": "zoro.tv",
+      "id": 5
+    },
+    {
+      "name": "Naina",
+      "username": "Eyesbrown",
+      "email": "nainatheslant@gmail.com",
+      "phone": "23456789",
+      "website": "lenskart.com",
+      "id": 6
+    },
+    {
+      "name": "Sanchita",
+      "username": "Sachi",
+      "email": "Sanchu@gmail.com",
+      "phone": "1234567899",
+      "website": "art.com",
+      "id": 7
+    }
+  ]
+}
